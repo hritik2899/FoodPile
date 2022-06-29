@@ -17,10 +17,7 @@ Food pile is a Java based Inventory management software. It makes management of 
  
 
 
-### Team -
-**Members:**<br />
-1. [Radhika Gupta](https://github.com/radhika2312)
-2. [Poorvi Garg](https://github.com/POORVI111)
+
 
 #### INVENTORY
 ![inventory](https://user-images.githubusercontent.com/68559217/108484556-f2a3ae80-72c1-11eb-91b0-64ce47b6b404.png)
